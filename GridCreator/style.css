@@ -54,4 +54,4 @@ input[type = "color"]{
    cursor: pointer;
 }
 
-input
+input[type = "color"]
