@@ -54,4 +54,33 @@ input[type = "color"]{
    cursor: pointer;
 }
 
-input[type = "color"]
+input[type = "color"]::-webkit-color-swatch{
+    border-radius: 8px;
+    border: 4px solid #000;
+
+}
+input[type = "color"]::-moz-color-swatch{
+    border-radius: 8px;
+    border: 4px solid #000;
+
+}
+
+.gridCol{
+    height: lem;
+    width: lem;
+    border: 1px solid #ddd;
+
+
+}
+
+.gridRow{
+    display: flex;
+}
+
+
+@media only screen and (max-width:768px){
+    .gridCol{
+        height: 0.8em;
+        width: 0.8em ;
+    }
+}
