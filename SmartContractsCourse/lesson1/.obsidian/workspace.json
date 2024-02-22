@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4622359059b1cb87",
@@ -148,9 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "745860361639ed75",
+  "active": "a71c0436e38fa205",
   "lastOpenFiles": [
-    "bitcoin.pdf",
-    "intro.md"
+    "intro.md",
+    "bitcoin.pdf"
   ]
 }
