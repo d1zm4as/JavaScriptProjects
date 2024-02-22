@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "intro.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4622359059b1cb87",
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a71c0436e38fa205",
+  "active": "745860361639ed75",
   "lastOpenFiles": [
     "bitcoin.pdf",
     "intro.md"
