@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "9ddacd230240429b",
+    "id": "bc76ffc015aa66ff",
     "type": "split",
     "children": [
       {
-        "id": "392f904e1c3e81d6",
+        "id": "8b1d2d7481360c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "463346a3fa1b02c4",
+            "id": "34ab9f3198f83e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3af101bc8736e625",
+    "id": "bb1f35812c7e16dd",
     "type": "split",
     "children": [
       {
-        "id": "76d147dfae8ea5e0",
+        "id": "52cdf6f3d57eda91",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb342bc23edd3f6",
+            "id": "14a0446f69a0ac40",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "ff57b2ddb055c0b7",
+            "id": "e7f8d0e389f56d61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "f5871c7d71e29aab",
+            "id": "eb0f1d2b2d5b422a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "4622359059b1cb87",
+    "id": "dccc9a132b10bf5a",
     "type": "split",
     "children": [
       {
-        "id": "53d553cb3f42b9cd",
+        "id": "a35d01239aa12ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd65f050da8ce75",
+            "id": "e6dd98c12c26ddca",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -87,12 +87,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "acd91804d1e1d010",
+            "id": "8545202bf9d09ec4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "0370c44cd1d32211",
+            "id": "86a1878ac3e4a0f2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,15 +114,14 @@
             }
           },
           {
-            "id": "745860361639ed75",
+            "id": "d90e00ea09bcada1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,16 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cb342bc23edd3f6",
+  "active": "34ab9f3198f83e05",
   "lastOpenFiles": [
-    "Untitled",
-    "intro.md",
-    "SmartContractsCourse/References/bitcoin.pdf.md",
-    "SmartContractsCourse/References",
-    "SmartContractsCourse",
-    "SmartContractsCourse/References.md",
-    "References/bitcoin.pdf.md",
-    "References",
-    "bitcoin.pdf"
+    "Untitled.canvas",
+    "lesson2/more.md",
+    "lesson1/intro.md",
+    "References/bitcoin.pdf"
   ]
 }
