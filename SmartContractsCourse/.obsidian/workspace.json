@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07a135e190c853d3",
+        "id": "198c760afa9c78cc",
         "type": "tabs",
         "children": [
           {
-            "id": "5393ec81e2989fad",
+            "id": "4c0df4a5eb16a680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dccc9a132b10bf5a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lesson1/intro.md"
+                "file": "References/links.md"
               }
             }
           }
@@ -146,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14a0446f69a0ac40",
+  "active": "4c0df4a5eb16a680",
   "lastOpenFiles": [
+    "lesson1/intro.md",
+    "References.md",
+    "References/bitcoin.pdf",
+    "References/links.md",
     "References/links.txt",
     "References/Ethereum_Whitepaper.pdf",
     "References/Ethereum_Whitepaper.pdf.crdownload",
-    "lesson1/intro.md",
     "Untitled.canvas",
-    "lesson2/more.md",
-    "References/bitcoin.pdf"
+    "lesson2/more.md"
   ]
 }

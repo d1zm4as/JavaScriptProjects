@@ -9,7 +9,7 @@
 Next note -> [[more]]
 
 
-References -> [[bitcoin.pdf]], [[Ethereum_Whitepaper.pdf]]
+References -> [[]]
 
 
 
