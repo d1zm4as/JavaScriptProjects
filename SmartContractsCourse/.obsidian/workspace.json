@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1d2d7481360c6f",
+        "id": "07a135e190c853d3",
         "type": "tabs",
         "children": [
           {
-            "id": "34ab9f3198f83e05",
+            "id": "5393ec81e2989fad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "lesson1/intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lesson1/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lesson1/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lesson1/intro.md"
+              }
             }
           }
         ]
@@ -138,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34ab9f3198f83e05",
+  "active": "14a0446f69a0ac40",
   "lastOpenFiles": [
+    "References/links.txt",
+    "References/Ethereum_Whitepaper.pdf",
+    "References/Ethereum_Whitepaper.pdf.crdownload",
+    "lesson1/intro.md",
     "Untitled.canvas",
     "lesson2/more.md",
-    "lesson1/intro.md",
     "References/bitcoin.pdf"
   ]
 }
