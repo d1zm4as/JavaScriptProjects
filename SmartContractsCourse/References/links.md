@@ -3,6 +3,7 @@ https://ethereum.org/
 https://youtu.be/gyMwXuJrbJQ?si=FFyQWVKhS1b9mFnK -> Course
 
 https://www.youtube.com/watch?v=UihMqcj-cqc -> Ethereum in 30 minutes
+
 https://www.youtube.com/watch?v=bBC-nXj3Ng4 -> how bitcoin works
 
 https://www.youtube.com/watch?v=M3EFi_POhps -> PoS vs PoW
