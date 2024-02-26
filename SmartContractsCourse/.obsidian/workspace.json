@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "198c760afa9c78cc",
+        "id": "b05c1591a181c415",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0df4a5eb16a680",
+            "id": "50d6b747082021e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dccc9a132b10bf5a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/links.md"
+                "file": "lesson1/intro.md"
               }
             }
           }
@@ -147,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0df4a5eb16a680",
+  "active": "50d6b747082021e1",
   "lastOpenFiles": [
-    "lesson1/intro.md",
-    "References.md",
-    "References/bitcoin.pdf",
     "References/links.md",
+    "lesson1/intro.md",
+    "References/bitcoin.pdf",
+    "References.md",
     "References/links.txt",
     "References/Ethereum_Whitepaper.pdf",
     "References/Ethereum_Whitepaper.pdf.crdownload",
