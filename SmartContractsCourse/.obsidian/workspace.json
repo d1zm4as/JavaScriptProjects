@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lesson1/intro.md",
+                "file": "References/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lesson1/intro.md"
+                "file": "References/links.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "50d6b747082021e1",
   "lastOpenFiles": [
-    "References/links.md",
+    "References/Ethereum_Whitepaper.pdf",
     "lesson1/intro.md",
+    "References/links.md",
     "References/bitcoin.pdf",
     "References.md",
     "References/links.txt",
-    "References/Ethereum_Whitepaper.pdf",
     "References/Ethereum_Whitepaper.pdf.crdownload",
     "Untitled.canvas",
     "lesson2/more.md"
