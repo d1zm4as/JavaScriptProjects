@@ -18,3 +18,6 @@ https://en.wikipedia.org/wiki/Proof_of_work -> proof of work
 
 https://en.wikipedia.org/wiki/Consensus_(computer_science) -> consensus
 
+https://www.youtube.com/watch?v=x83EVUZ_EWo -> proof of stake
+
+

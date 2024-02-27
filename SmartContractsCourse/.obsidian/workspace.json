@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dccc9a132b10bf5a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/links.md",
+                "file": "lesson1/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/links.md"
+                "file": "lesson1/intro.md"
               }
             }
           }
@@ -148,9 +149,9 @@
   },
   "active": "50d6b747082021e1",
   "lastOpenFiles": [
+    "References/links.md",
     "References/Ethereum_Whitepaper.pdf",
     "lesson1/intro.md",
-    "References/links.md",
     "References/bitcoin.pdf",
     "References.md",
     "References/links.txt",

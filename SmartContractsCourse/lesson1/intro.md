@@ -15,6 +15,16 @@
 
 
 
+<h3>Proof of Stake</h3>
+
+<p>With PoS the computational work and the energy costs are reduced, mainly because there is no competition for the  reward, in this case to become a validator(<i>instead of a miner</i>)  the coin owner must "stake" a specific amount of coins (<i> as collateral </i>) to have more chance of being selected, one of the biggest pros about this method is the minimum energy consumption, Ethereum for example dropped 99.84% after transitioning from Pow to PoS.  </p>
+
+
+
+
+
+
+
 Next note -> [[more]]
 
 
