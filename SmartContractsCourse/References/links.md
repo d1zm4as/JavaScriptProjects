@@ -20,4 +20,6 @@ https://en.wikipedia.org/wiki/Consensus_(computer_science) -> consensus
 
 https://www.youtube.com/watch?v=x83EVUZ_EWo -> proof of stake
 
+https://www.investopedia.com/terms/p/proof-stake-pos.asp -> proof of stake
+
 
