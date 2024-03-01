@@ -24,3 +24,5 @@ https://www.investopedia.com/terms/p/proof-stake-pos.asp -> proof of stake
 
 
 https://remix.ethereum.org/ -> Remix
+
+https://docs.soliditylang.org/en/latest/index.html -> Solidity documentation

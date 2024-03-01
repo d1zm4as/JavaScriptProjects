@@ -11,8 +11,12 @@
             "id": "50d6b747082021e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "lesson2/sec.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lesson2/sec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lesson2/sec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lesson2/sec.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "50d6b747082021e1",
   "lastOpenFiles": [
+    "2024-03-01.md",
+    "lesson2/sec.md",
+    "Untitled.md",
     "lesson1/intro.md",
     "References/links.md",
     "References/Ethereum_Whitepaper.pdf",
